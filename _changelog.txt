@@ -1,0 +1,18 @@
+================
+Mon 27 Sep 2021
+================
+
+- Edit sort method of BubbleSort class to make clearer the distinction between function inputs and method variables.
+- Create QuickSort class and implement sort method using the quicksort algorithm.
+- Delete testing code.
+- Create SelectionSort class and implement sort method using the selection sort algorithm.
+- Create MergeSort class and implement sort method using the merge sort algorithm.
+- Perform minor aesthetic changes.
+
+================
+Sun 26 Sep 2021
+================
+
+- Create Sortable base class which stores a list of numbers to sort as an attribute.
+- Create methods in Sortable to sort the list attribute of the class instantiation (selfsort) or to sort a given list of numbers (sort)
+- Create BubbleSort class and implement sort method using the bubble sort algorithm.
